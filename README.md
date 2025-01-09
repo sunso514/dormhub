@@ -1,2 +1,2 @@
 # studyhub
-A web app allow us to manage our study
+A web app people allow us to manage study group
