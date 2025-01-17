@@ -1,2 +1,2 @@
-# studyhub
-A web app people allow us to manage study group
+# DormHub
+A web app make people manage their dormitory easily
